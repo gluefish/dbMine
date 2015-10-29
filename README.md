@@ -17,3 +17,4 @@ History:
   * Coldfusion/Access, 2005.  I liked the CF version but GoDaddy discontinued support in 2011.  
   * Railo/Access, 2011.  
   * PHP/MySQL, 2012.
+  * Added PHP/MySQL to NetBeans environment on Lou's HP, to prepare for update/fix bugs
