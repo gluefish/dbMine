@@ -18,3 +18,6 @@ History:
   * Railo/Access, 2011.  
   * PHP/MySQL, 2012.
   * Added PHP/MySQL to NetBeans environment on Lou's HP, to prepare for update/fix bugs
+  * Moved to XAMPP on Lou's Mac for dev work, back to Windows/gluefish.com at GoDaddy for production, 2016
+    (Lou's Mac version pointing to the live db on GoDaddy)
+  * Stopped development, 2017
